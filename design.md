@@ -137,14 +137,14 @@ Free Tier:
 - Limited progress tracking
 - Community access
 
-Premium Tier ($9.99/month):
+Premium Tier (₹500/month):
 - Full exercise library (500+ exercises)
 - Advanced analytics and insights
 - Personal trainer chat
 - Custom meal plans
 - Priority customer support
 
-Pro Tier ($19.99/month):
+Pro Tier (₹900/month):
 - Everything in Premium
 - 1-on-1 video coaching sessions
 - Personalized workout plans
@@ -332,4 +332,5 @@ Account Upgrade → Feature Unlock → Confirmation Email
 - **Payment Tests**: Stripe webhook testing in sandbox
 - **Email Tests**: SendGrid template and delivery testing
 - **Social Features**: Multi-user interaction scenarios
+
 - **Subscription Tests**: Billing cycle and upgrade/downgrade flows
