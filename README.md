@@ -37,7 +37,7 @@ Please refer to the following files for detailed information:
 
 ## 📝 Note
 
-This repository is submitted as part of an **academic requirement**.  
+This repository is submitted as part of an **requirement**.  
 All core project details are documented in the above files.
 
 ---
