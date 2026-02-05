@@ -43,4 +43,4 @@ All core project details are documented in the above files.
 ---
 
 🙏 **Namaste**  
-**SUNDAY – Yoga Learning, Simplified**
+**ASANAMIND – Yoga Learning, Simplified**
