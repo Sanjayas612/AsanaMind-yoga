@@ -20,9 +20,10 @@ These files together explain the problem statement, proposed solution, system re
 
 ## 🎯 Project Objective
 
-- To digitally support VTU’s zero-credit Yoga course  
-- To enable structured yoga learning and evaluation  
-- To maintain records and certification through a digital platform  
+- To provide digital support for **VTU’s mandatory zero-credit Yoga course**
+- To enable structured yoga learning and evaluation for VTU students
+- To maintain digital records and certification for academic reference
+- To extend the same platform for **public users** interested in learning and practicing yoga
 
 ---
 
